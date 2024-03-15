@@ -1,0 +1,9 @@
+/* CSS untuk latar belakang */
+.jumbotron {
+    background-image: url('banner.jpg'); /* Ganti 'banner.jpg' dengan URL gambar latar belakang yang Anda inginkan */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    background-position: center top; /* Mengatur posisi latar belakang di tengah atas */
+}
